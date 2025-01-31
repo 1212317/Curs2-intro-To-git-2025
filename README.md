@@ -1,2 +1,2 @@
 # Curs2-intro-To-git-2025
-Cursul 2 din 31 Ianuarie
+Cursul 2 din 31 Ianuarie - comenzile cele mai folosite din GIT
